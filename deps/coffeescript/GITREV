@@ -1,0 +1,9 @@
+commit ab6f69c7416099e6387b38a42262282125428553
+Merge: fbbda3f 2ec6e7e
+Author: Michael Ficarra <github@michael.ficarra.me>
+Date:   Tue Jul 29 10:52:59 2014 -0700
+
+    Merge pull request #3561 from yjo/js-map-file-ext
+    
+    Use '.js.map' as file extension for created map files
+
